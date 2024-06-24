@@ -1,4 +1,4 @@
-I'm Sergio, a software developer and student from Arlington. Here's a bit about me:
+I'm Sergio, a software developer and student from Arlington. Here's a bit about me: \n
 
 🎓 I'm a junior at James Madison University studying computer science and robotics
 🎮 I'm a gamer and game developer
