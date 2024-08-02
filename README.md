@@ -7,9 +7,9 @@ I'm Sergio, a software developer and student from Arlington. Here's a bit about 
 ⚡ Fun fact: I have 3 citizenships!<br>
 Skills:<br>
 💻 Programming Languages: Python, Java, C<br>
-🌐 Web Development: HTML, CSS, JavaScript<br>
+🌐 Web Development: HTML, CSS, JavaScript, Nginx, Docker<br>
 🛢️ Databases: MySQL, R<br>
-🛠️ Tools & Platforms: Git, VS Code, Eclipse, GitHub<br>
+🛠️ Tools & Platforms: Git, VS Code, Eclipse, GitHub, AWS, Docker, Nginx<br>
 Connect with Me:<br>
 LinkedIn: [httpsLinkedin.com/in/sergiovavra](https://www.linkedin.com/in/sergiovavra/)<br>
 Instagram: sergio.vavra<br>
