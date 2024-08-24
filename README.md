@@ -3,7 +3,7 @@ I'm Sergio, a software developer and student from Arlington. Here's a bit about 
 🎓 I'm a junior at James Madison University studying computer science and robotics<br>
 ⚽ I love playing all kinds of sports in my freetime with friends<br>
 🎮 I'm a gamer and game developer<br>
-📫 How to reach me: sergio.vavra<br>
+📫 How to reach me: sergio.vavra@gmail.com<br>
 ⚡ Fun fact: I have 3 citizenships!<br>
 Skills:<br>
 💻 Programming Languages: Python, Java, C<br>
