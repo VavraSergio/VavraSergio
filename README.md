@@ -6,10 +6,10 @@ I'm Sergio, a software developer and student from Arlington. Here's a bit about 
 📫 How to reach me: sergio.vavra@gmail.com<br>
 ⚡ Fun fact: I have 3 citizenships!<br>
 Skills:<br>
-Programming Languages:<br>
-Python, TypeScript, Java, C, Ruby, Rust, Haskell, JavaScript, HTML, CSS, SQL, R<br>
-Frameworks & Libraries: LangChain, LangGraph, TensorFlow, AWS SDK, Poetry<br>
-Cloud & DevOps: AWS (Lambda, S3, ECS, API Gateway), Docker, GitHub Actions, CI/CD<br>
+💻 Programming Languages:<br>
+🧩 Python, TypeScript, Java, C, Ruby, Rust, Haskell, JavaScript, HTML, CSS, SQL, R<br>
+🖥️ Frameworks & Libraries: LangChain, LangGraph, TensorFlow, AWS SDK, Poetry<br>
+☁️ Cloud & DevOps: AWS (Lambda, S3, ECS, API Gateway), Docker, GitHub Actions, CI/CD<br>
 Connect with Me:<br>
 LinkedIn: [httpsLinkedin.com/in/sergiovavra](https://www.linkedin.com/in/sergiovavra/)<br>
 Instagram: sergio.vavra<br>
